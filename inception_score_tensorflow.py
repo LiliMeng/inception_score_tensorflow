@@ -2,6 +2,8 @@
 # https://github.com/openai/improved-gan/blob/master/inception_score/model.py
 # which was in turn derived from
 # tensorflow/tensorflow/models/image/imagenet/classify_image.py
+
+# Code from https://gist.github.com/jcjohnson/0779568bf0e4e64d141cae22414da549
 from __future__ import absolute_import
 from __future__ import division
 from __future__ import print_function
